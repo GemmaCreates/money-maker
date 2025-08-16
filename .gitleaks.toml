@@ -1,0 +1,17 @@
+title = "money-maker gitleaks config"
+
+[allowlist]
+paths = [
+  "^README.md$",
+  "^LICENSE$",
+  "^CHANGELOG.md$",
+  "^docs/",
+  "^\\.github/workflows/",
+  "^\\.git/"
+]
+
+regexes = [
+  "(?i)CHANGEME",
+  "(?i)DUMMY",
+  "(?i)EXAMPLE",
+]
