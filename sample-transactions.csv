@@ -1,0 +1,6 @@
+Date,Type,Ticker,Shares,Price,Fees,Account,Notes
+2024-12-01,Buy,AAPL,20,160.00,1.00,Brokerage 1,Initial position
+2024-12-10,Buy,VOO,15,380.00,1.00,Brokerage 1,DCA
+2025-01-05,Dividend,VOO,0,0.00,0.00,Brokerage 1,Quarterly dividend $45.60
+2025-02-02,Buy,MSFT,10,320.00,1.00,Brokerage 2,New position
+2025-03-12,Sell,TSLA,5,240.00,1.00,Brokerage 1,Trim position

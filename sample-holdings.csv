@@ -1,0 +1,6 @@
+Ticker,Company Name,Asset Class,Shares,Average Cost Basis,Current Price,Dividend Yield (%)
+AAPL,Apple Inc.,Stock,50,155.20,182.35,0.55
+MSFT,Microsoft Corp.,Stock,20,285.10,405.12,0.75
+VOO,Vanguard S&P 500 ETF,ETF,30,360.00,470.25,1.35
+TSLA,Tesla Inc.,Stock,10,210.00,238.10,0.00
+BTC-USD,Bitcoin,Crypto,0.25,28000,65000,0.00
