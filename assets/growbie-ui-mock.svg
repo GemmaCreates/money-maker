@@ -1,0 +1,37 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#FFFFFF"/>
+  <rect x="50" y="50" width="1100" height="620" rx="16" fill="#F7F7F8"/>
+  
+  <!-- Header -->
+  <text x="100" y="120" font-family="system-ui, sans-serif" font-size="32" font-weight="600" fill="#3A7BD5">Growbie</text>
+  <text x="100" y="160" font-family="system-ui, sans-serif" font-size="16" fill="#666">Milestone Dashboard</text>
+  
+  <!-- Milestone Cards -->
+  <rect x="100" y="200" width="320" height="180" rx="12" fill="#FFFFFF"/>
+  <circle cx="140" cy="250" r="20" fill="#3A7BD5" opacity="0.2"/>
+  <text x="180" y="255" font-family="system-ui, sans-serif" font-size="18" font-weight="500" fill="#222">Walking</text>
+  <text x="180" y="285" font-family="system-ui, sans-serif" font-size="14" fill="#666">12-15 months</text>
+  <rect x="180" y="305" width="200" height="8" rx="4" fill="#E5E5E7"/>
+  <rect x="180" y="305" width="140" height="8" rx="4" fill="#3A7BD5"/>
+  
+  <rect x="460" y="200" width="320" height="180" rx="12" fill="#FFFFFF"/>
+  <circle cx="500" cy="250" r="20" fill="#3A7BD5" opacity="0.2"/>
+  <text x="540" y="255" font-family="system-ui, sans-serif" font-size="18" font-weight="500" fill="#222">First Words</text>
+  <text x="540" y="285" font-family="system-ui, sans-serif" font-size="14" fill="#666">10-14 months</text>
+  <rect x="540" y="305" width="200" height="8" rx="4" fill="#E5E5E7"/>
+  <rect x="540" y="305" width="180" height="8" rx="4" fill="#3A7BD5"/>
+  
+  <rect x="820" y="200" width="320" height="180" rx="12" fill="#FFFFFF"/>
+  <circle cx="860" cy="250" r="20" fill="#3A7BD5" opacity="0.2"/>
+  <text x="900" y="255" font-family="system-ui, sans-serif" font-size="18" font-weight="500" fill="#222">Self-Feeding</text>
+  <text x="900" y="285" font-family="system-ui, sans-serif" font-size="14" fill="#666">8-12 months</text>
+  <rect x="900" y="305" width="200" height="8" rx="4" fill="#E5E5E7"/>
+  <rect x="900" y="305" width="100" height="8" rx="4" fill="#3A7BD5"/>
+  
+  <!-- Progress Summary -->
+  <rect x="100" y="420" width="1040" height="120" rx="12" fill="#FFFFFF"/>
+  <text x="140" y="470" font-family="system-ui, sans-serif" font-size="20" font-weight="500" fill="#222">Recent Progress</text>
+  <text x="140" y="505" font-family="system-ui, sans-serif" font-size="14" fill="#666">3 milestones tracked this month</text>
+  <circle cx="1080" cy="480" r="30" fill="#3A7BD5" opacity="0.1"/>
+  <text x="1065" y="490" font-family="system-ui, sans-serif" font-size="24" font-weight="600" fill="#3A7BD5">✓</text>
+</svg>
