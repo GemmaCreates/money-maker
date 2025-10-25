@@ -1,3 +1,43 @@
+# Execution Plan (30 Days)
+Purpose: Tactical, day-by-day actions to ship and monetize fastest.
+
+# Project Inventory and Monetization Priorities (Oct 2025)
+
+## Project Inventory
+- **Potty Training App** (free): Early version for personal use and learning. Monetization deferred; use for audience building and UX learnings.
+- **Growth Tracking App** (free): Early version to track habits/growth. Monetization deferred; gather usage data and testimonials.
+- **Kids Money Math App** (freemium, WIP): Educational game to teach money math. Plan: free core levels + premium pack (parents) via IAP/subscription.
+- **Notion Investment Portfolio Tracker** (primary revenue): In progress; highest near-term ROI with $0 API costs.
+- **Budget Planning GPT** (lead-gen + ancillary revenue): Research/spec done; to be submitted with optional premium calculators.
+- **Raycast Personal Finance Dashboard** (subscription): Planned after Notion/GPT; aligns with same audience for cross-sell.
+
+## Prioritized Monetization Roadmap (next 30–45 days)
+1) **Finish and launch Notion Investment Portfolio Tracker** (Days 1–7)
+   - Outcome: Market-ready template on Gumroad + Notion directories.
+   - Pricing: $49 one-time, A/B later vs $69; Pro scripts at $8/mo.
+   - Targets: 100 sales, 10+ reviews, 20 Pro trials in first 2 weeks.
+2) **Publish Budget Planning GPT (+ premium calculators)** (Days 8–14)
+   - Outcome: Live in GPT Store with Actions to debt/savings calculators.
+   - Goal: Drive top-of-funnel traffic and upsell Notion template.
+3) **Raycast Personal Finance Dashboard v1** (Days 15–30)
+   - Outcome: CSV import, charts, budget basics; $12/mo with 7‑day trial.
+   - Cross-sell to Notion/GPT users; collect 10+ reviews.
+4) **Kids Money Math App (freemium) soft‑launch prep** (parallel, light)
+   - Outcome: Landing page + email capture, core level polish, parent pack spec.
+   - Monetization: Starter IAP ($3.99 one-time) or sub ($3.99/mo) experiment post-Day 30.
+5) **Potty Training + Growth apps**
+   - Outcome: Keep free; add feedback prompts and email capture for future monetization signals.
+
+## Immediate: Finish the Notion Investment Template (2-day checklist)
+- Build databases: `Holdings`, `Transactions`, `Dividends`, `Watchlist` with relations.
+- Add formulas: cost basis, realized/unrealized P&L, allocation, dividend yield.
+- Create dashboards: Overview KPIs, monthly/yearly performance, allocation charts.
+- Risk section: position sizing and stop-loss helpers.
+- Sample data: conservative vs aggressive portfolios; 5+ tickers each.
+- Documentation: step-by-step setup with screenshots; usage tips.
+- Listing assets: cover image, 3–4 previews, concise sales copy.
+- Launch: Gumroad listing, post in 3 communities, 10 outreach emails.
+
 # 30-Day Daily Action Plan: Notion Investment Portfolio + Budget GPT
 
 ## Overview: Month 1 Focus
@@ -10,18 +50,18 @@
 ## WEEK 1: Notion Investment Portfolio Foundation
 **Target**: Complete template + first sales ($5K revenue)
 
-### Day 1 (Monday) - Market Research & Template Structure
+### Day 1 (Monday) - Market Research & Template Structure ✅ COMPLETED
 **Time**: 2 hours
-- [ ] **Morning (1 hour)**
+- [x] **Morning (1 hour)**
   - Research 10 existing investment portfolio templates (Notion, Airtable, Excel)
   - Identify gaps: What's missing? What do users complain about?
   - Screenshot 3 best examples for inspiration
-- [ ] **Evening (1 hour)**
+- [x] **Evening (1 hour)**
   - Design template structure on paper/Figma
   - Plan database schemas: Holdings, Transactions, Performance, Dividends
   - Write feature list (basic vs premium tiers)
 
-**Deliverable**: Template wireframe + feature list
+**Deliverable**: ✅ COMPLETED - Notion Trading Journal with comprehensive examples and usage guides
 
 ### Day 2 (Tuesday) - Build Core Template
 **Time**: 2 hours
@@ -95,17 +135,17 @@
 ## WEEK 2: Budget GPT + Portfolio Optimization
 **Target**: GPT live + portfolio improvements ($8K total revenue)
 
-### Day 8 (Monday) - GPT Research & Planning
+### Day 8 (Monday) - GPT Research & Planning ✅ COMPLETED
 **Time**: 1.5 hours
-- [ ] **Morning (1 hour)**
+- [x] **Morning (1 hour)**
   - Research top 10 finance GPTs in store (features, ratings, gaps)
   - Study GPT creation guidelines and best practices
   - Plan Actions API endpoints needed
-- [ ] **Evening (30 min)**
+- [x] **Evening (30 min)**
   - Write GPT system prompt for budget planning assistant
   - Define 3 core functions: budget creation, debt payoff, savings goals
 
-**Deliverable**: GPT spec document + system prompt draft
+**Deliverable**: ✅ COMPLETED - GPT research document + Actions API specification
 
 ### Day 9 (Tuesday) - GPT Development
 **Time**: 2 hours
@@ -508,3 +548,5 @@
 - **Lead scoring**: Track engagement to identify hot prospects
 
 This plan prioritizes your highest-probability products (Notion template) while building complementary offerings (GPT, Raycast) that serve the same customer base. Each day has clear, actionable tasks that fit within your 10 hours/week constraint.
+
+

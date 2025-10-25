@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title>TheSavvyChefs Mock UI - Product Grid</title>
+  <desc>Neutral mock interface showing a 3x2 product grid with image tiles and captions.</desc>
+  <rect width="1200" height="720" fill="#F7F7F8" />
+
+  <!-- Header -->
+  <rect x="40" y="32" width="260" height="20" rx="10" fill="#3A7BD5" opacity="0.9" />
+  <rect x="40" y="64" width="420" height="14" rx="7" fill="#D9DCE3" />
+
+  <!-- Grid 3x2 -->
+  <g transform="translate(40,120)">
+    <defs>
+      <g id="tile">
+        <rect width="344" height="360" rx="14" fill="#FFFFFF" stroke="#E1E4EA" />
+        <rect x="16" y="16" width="312" height="220" rx="12" fill="#EEF1F6" />
+        <rect x="16" y="252" width="200" height="14" rx="7" fill="#3A7BD5" opacity="0.8" />
+        <rect x="16" y="276" width="270" height="12" rx="6" fill="#E7E9EF" />
+        <rect x="16" y="296" width="140" height="12" rx="6" fill="#F0F2F6" />
+      </g>
+    </defs>
+    <use href="#tile" x="0" y="0" />
+    <use href="#tile" x="376" y="0" />
+    <use href="#tile" x="752" y="0" />
+  </g>
+  <g transform="translate(40,496)">
+    <use href="#tile" x="0" y="0" />
+    <use href="#tile" x="376" y="0" />
+    <use href="#tile" x="752" y="0" />
+  </g>
+</svg>
+
+
+

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>Hero Placeholder - Uptempo Enterprises</title>
+  <desc>Abstract neutral banner with muted blue accent shapes for the hero section.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F7F8" />
+      <stop offset="100%" stop-color="#EDEEF1" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1600" height="900" fill="url(#g)" />
+
+  <!-- Muted blue accent wave -->
+  <path d="M0,680 C300,620 450,760 800,700 C1150,640 1280,760 1600,690 L1600,900 L0,900 Z" fill="#3A7BD5" opacity="0.10" />
+  <path d="M0,740 C320,700 520,820 840,760 C1160,700 1340,820 1600,760 L1600,900 L0,900 Z" fill="#3A7BD5" opacity="0.08" />
+
+  <!-- Framing card -->
+  <g transform="translate(220,180)">
+    <rect width="1160" height="520" rx="16" fill="#FFFFFF" stroke="#D9DCE3" />
+    <rect x="24" y="24" width="300" height="20" rx="10" fill="#3A7BD5" opacity="0.85" />
+    <rect x="24" y="60" width="520" height="16" rx="8" fill="#D9DCE3" />
+    <rect x="24" y="88" width="460" height="16" rx="8" fill="#E6E8EE" />
+
+    <rect x="24" y="136" width="520" height="320" rx="12" fill="#F6F7FA" stroke="#E6E8EE" />
+    <g transform="translate(580,136)">
+      <rect width="556" height="68" rx="10" fill="#F6F7FA" stroke="#E6E8EE" />
+      <rect y="88" width="556" height="68" rx="10" fill="#F6F7FA" stroke="#E6E8EE" />
+      <rect y="176" width="556" height="68" rx="10" fill="#F6F7FA" stroke="#E6E8EE" />
+      <rect y="264" width="556" height="68" rx="10" fill="#F6F7FA" stroke="#E6E8EE" />
+    </g>
+  </g>
+
+  <!-- Title text as vector (for portability) -->
+  <text x="240" y="240" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1F2A37">Uptempo Enterprises</text>
+  <text x="240" y="280" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" fill="#3A7BD5">Digital Product Lab.</text>
+</svg>
+
+
+

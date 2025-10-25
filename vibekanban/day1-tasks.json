@@ -1,0 +1,17 @@
+{
+  "project": "money-maker",
+  "group": "Day 1 — Uptempo 1‑pager (minimal proof site)",
+  "tasks": [
+    { "title": "Pick a simple template or sectioned doc for a one‑pager", "status": "todo" },
+    { "title": "Write a 75‑word company blurb (what you do + credibility)", "status": "todo" },
+    { "title": "List owned products with links (apps, MaliaTravel, SavvyChefs)", "status": "todo" },
+    { "title": "Add a contact email and simple footer (privacy/terms links)", "status": "todo" },
+    { "title": "Publish the page; note live URL", "status": "todo" },
+    { "title": "Add GA4 to the page; verify pageview in realtime", "status": "todo" },
+    { "title": "Add a basic privacy + terms stub (paste from templates)", "status": "todo" },
+    { "title": "Add social/profile links (App Store, IG, LinkedIn) if available", "status": "todo" }
+  ]
+}
+
+
+

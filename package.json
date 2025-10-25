@@ -1,0 +1,23 @@
+{
+  "name": "notion-trading-journal-builder",
+  "version": "1.0.0",
+  "description": "Automated builder for mobile-first trading journal in Notion",
+  "main": "build-journal.js",
+  "scripts": {
+    "build": "node build-journal.js",
+    "test": "node test-connection.js",
+    "kanban": "open https://www.vibekanban.com/",
+    "kanban:local": "open http://localhost:5050"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["notion", "trading", "journal", "api", "automation"],
+  "author": "Gemma",
+  "license": "MIT"
+}
+
+
+
+
